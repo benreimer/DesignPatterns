@@ -1,0 +1,5 @@
+C:\GIT\DesignPatterns\Intro\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\GIT\DesignPatterns\Intro\obj\Debug\Intro.dll
+C:\GIT\DesignPatterns\Intro\obj\Debug\Intro.pdb
+C:\GIT\DesignPatterns\Intro\bin\Debug\Intro.dll
+C:\GIT\DesignPatterns\Intro\bin\Debug\Intro.pdb

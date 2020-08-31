@@ -8,7 +8,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns", "DesignPat
 		{EA26521C-D2A6-446D-ABB0-6CDAC0DCF634} = {EA26521C-D2A6-446D-ABB0-6CDAC0DCF634}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intro", "..\Intro\Intro.csproj", "{EA26521C-D2A6-446D-ABB0-6CDAC0DCF634}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "..\Intro\Strategy.csproj", "{EA26521C-D2A6-446D-ABB0-6CDAC0DCF634}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
