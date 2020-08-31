@@ -1,0 +1,10 @@
+C:\GIT\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+C:\GIT\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+C:\GIT\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+C:\GIT\DesignPatterns\DesignPatterns\bin\Debug\Intro.dll
+C:\GIT\DesignPatterns\DesignPatterns\bin\Debug\Intro.pdb
+C:\GIT\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csprojAssemblyReference.cache
+C:\GIT\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\GIT\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csproj.CopyComplete
+C:\GIT\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
+C:\GIT\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
