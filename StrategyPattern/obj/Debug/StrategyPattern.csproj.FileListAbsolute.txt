@@ -1,0 +1,5 @@
+C:\GIT\DesignPatterns\StrategyPattern\bin\Debug\StrategyPattern.dll
+C:\GIT\DesignPatterns\StrategyPattern\bin\Debug\StrategyPattern.pdb
+C:\GIT\DesignPatterns\StrategyPattern\obj\Debug\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\GIT\DesignPatterns\StrategyPattern\obj\Debug\StrategyPattern.dll
+C:\GIT\DesignPatterns\StrategyPattern\obj\Debug\StrategyPattern.pdb

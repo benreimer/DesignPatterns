@@ -1,5 +1,5 @@
 ﻿using System;
-using Intro;
+using StrategyPattern;
 
 
 namespace DesignPatterns
